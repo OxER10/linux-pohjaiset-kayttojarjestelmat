@@ -1,5 +1,5 @@
 # Name of the executable
-EXECUTABLE = hello
+EXECUTABLE = arg.exe
 
 # Compiler
 CC = g++
